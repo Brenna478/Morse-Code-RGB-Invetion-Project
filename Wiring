@@ -1,0 +1,8 @@
+### Wiring 
+1. Gather 5 male-to-male wires, 2 330 resistors, the RGB LED, and a wired speaker. 
+1.5 Make sure the pi is unplugged to start wiring.
+2. Take the wires and use the RGB wiring visual aid to choose which colors you want to use for your Morse code identifiers. 
+3. Use the resistors on the prongs of the colors chosen, one side must not connect to any other prong or wire while the other must be inserted next to the color prong.
+4. Use the male-to-male wire to connect the side that is 'NOT' next to a prong and to a numbered pin on the T-cobbler, repeat for the second color.
+5. Next take the remaining wires and connect the prong labeled "ground" to the ground (GRD) pin on the T-cobbler 
+6. Once finished it should look something similar to this 
