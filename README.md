@@ -27,4 +27,9 @@ Ability to open the code on the Raspberry pi
 5. Next take the remaining wires and connect the prong labeled "ground" to the ground (GRD) pin on the T-cobbler 
 6. Once finished it should look something similar to this![20241213_105649](https://github.com/user-attachments/assets/2a9bec96-de37-4e90-9c5d-5988e89f189f)
 
-
+## Running the Code
+1. To be able to run the code it is necessary to create a virtual environment so that the code does not error 
+2. This series of inputs can be used to create a virtual environment 
+[APznzaYV1Eg-qorfcT8esIDBkbimuYF6GxgPMWUgFwReoFxeJizgBc7XIDEMmlzCfpGnNZtfJSjtBzCMFlfiD_Ad5zATgrRr2yWYy65lnQB93ypm2kZnb8wBmplwrLFQFVAU5ooet-CTAp7Sr2vzVfiNTGjzX3qoHSA6vDm6qUbl_-1Ji_AapmAIUtqU7BGcSPB2fco0ZjUqfpmmtDOjri.pdf](https://github.com/user-attachments/files/18156296/APznzaYV1Eg-qorfcT8esIDBkbimuYF6GxgPMWUgFwReoFxeJizgBc7XIDEMmlzCfpGnNZtfJSjtBzCMFlfiD_Ad5zATgrRr2yWYy65lnQB93ypm2kZnb8wBmplwrLFQFVAU5ooet-CTAp7Sr2vzVfiNTGjzX3qoHSA6vDm6qUbl_-1Ji_AapmAIUtqU7BGcSPB2fco0ZjUqfpmmtDOjri.pdf)
+3. Next cd (change directory) to the file named Morse code so that all audio files and files can be used in the program
+4. Now you must import and download the files necessary, in this case pydub and time 
